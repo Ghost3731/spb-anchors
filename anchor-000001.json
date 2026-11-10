@@ -1,0 +1,19 @@
+{
+  "document": {
+    "v": 1,
+    "kind": "spb-anchor",
+    "at": "2026-11-10T12:19:05.222Z",
+    "ledger": {
+      "chain_no": "99",
+      "hash": "21e96d525adfffafeb52e84836d43013b79a2f642be2ef00d6b0a0db730f6298"
+    },
+    "audit": {
+      "seq": "99",
+      "hash": "fbd78b3315161d4cb4fc59ec7c5d588f504b149466b324488b15a9473dd4911c"
+    },
+    "eod": null,
+    "prev": "genesis"
+  },
+  "key_id": "4bd8328a0c35b3899921c971317b71fbea3602940887ae99272440efc8373701",
+  "signature": "n20PGWlN6ooCCg3fZDmCh8hb2E1zaVEw9vT8zy4ccJRNYrw4vQDcM22qaFb2O82RJ3ldLwLheNv+LpJp8dXCAQ=="
+}
